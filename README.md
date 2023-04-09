@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i= react, ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= js)](https://skillicons.dev)
