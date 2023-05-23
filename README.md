@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ts,nextjs,postgres,prisma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ts,nextjs,mongodb,postgres,prisma,xd)](https://skillicons.dev)
