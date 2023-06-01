@@ -1,6 +1,4 @@
-### Hi there 👋
-I'm HsuWai.
-I'm fullstack developer.
+🌕
 <!--
 **waihsu/waihsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
