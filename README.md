@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Myanmar (Burma)
 * ✉️  You can contact me at [hsuw647@gmail.com](mailto:hsuw647@gmail.com)
-* 🧠  I'm learning nextjs
+* 🧠  I'm learning javascript
 * 🤝  I'm open to collaborating on https://e-book-waihsu.vercel.app
 
 <a href="https://www.github.com/waihsu" target="_blank" rel="noreferrer"><img
