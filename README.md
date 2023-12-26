@@ -18,7 +18,7 @@ src="https://img.shields.io/twitch/status/hsuwa?logo=twitchsx&style=for-the-badg
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,figma,firebase,git,github,ai,ps,materialui,mongodb,nextjs,prisma,react,redux,supabase,tailwind,vscode,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,nodejs,express,react,redux,nextjs,git,github,firebase,mongodb,supabase,prisma,vscode,xd,figma,ai,ps,)](https://skillicons.dev)
 
 ### Socials
 
